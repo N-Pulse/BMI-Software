@@ -1,6 +1,6 @@
 [submodule "Data Acquisition"]
-	path = Data Acquisition
+	path = Signal_Acquisition
 	url = https://github.com/N-Pulse/BMI-SOFT-Signal_Acquisition
 [submodule "Signal Processing & ML"]
-	path = Signal Processing & ML
+	path = Signal_Processing_ML
 	url = https://github.com/N-Pulse/BMI-SOFT-Signal_Processing_ML
