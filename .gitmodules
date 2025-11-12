@@ -4,9 +4,13 @@
 [submodule "Signal Processing & ML"]
 	path = Signal Processing & ML
 	url = https://github.com/N-Pulse/BMI-SOFT-Signal_Processing_ML.git
+[submodule "Data Visualization"]
+	path = Data Visualization
+	url = https://github.com/N-Pulse/BMI-SOFT-Data_Visualization
 [submodule "Biomechanical Model"]
 	path = Biomechanical Model
 	url = https://github.com/N-Pulse/BMI-SOFT-Biomechanical_Model
 [submodule "Gesture Recognition"]
 	path = Gesture Recognition
 	url = https://github.com/N-Pulse/BMI-SOFT-CV_Gesture_Recognition.git
+
