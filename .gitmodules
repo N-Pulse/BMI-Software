@@ -10,3 +10,6 @@
 [submodule "Gesture Recognition"]
 	path = Gesture Recognition
 	url = https://github.com/N-Pulse/BMI-SOFT-CV_Gesture_Recognition.git
+[submodule "Data Visualization"]
+	path = Data Visualization
+	url = https://github.com/N-Pulse/BMI-SOFT-Data_Visualization
